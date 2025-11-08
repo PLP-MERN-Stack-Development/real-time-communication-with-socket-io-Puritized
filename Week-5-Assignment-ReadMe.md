@@ -2,6 +2,8 @@
 
 A modern realtime chat application built with React, Vite, Socket.io, and Tailwind CSS, featuring persistent messages stored in a JSON file. Users can join the chat, see online users, send public and private messages, and see typing indicators in real time.
 
+URL: https://real-time-communication-with-socket-io-oc1z.onrender.com
+
 ---
 
 ## Project Overview
